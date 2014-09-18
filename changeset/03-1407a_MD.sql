@@ -1,6 +1,6 @@
 ﻿insert into system.setting(name, vl, active, description) values('title-plan-gridcut-srid', 26332, true, 'The srid of the grid cut used in the title plan map');
-insert into system.setting(name, vl, active, description) values('surveyor', 'John Smith', true, 'Name of Surveyor');
-insert into system.setting(name, vl, active, description) values('surveyorRank', 'Surveyor', true, 'The rank of the Surveyor');
+insert into system.setting(name, vl, active, description) values('surveyor', 'Abolarin Michael Biodun', true, 'Name of Surveyor');
+insert into system.setting(name, vl, active, description) values('surveyorRank', 'Deputy SLTR Officer', true, 'The rank of the Surveyor');
 
 
 

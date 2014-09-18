@@ -1,4 +1,4 @@
-﻿insert into system.config_map_layer_metadata (name_layer ,"name" , "value") values ('orthophoto', 'sheet-number', 'NUMBEROFTHESHEET');
+﻿insert into system.config_map_layer_metadata (name_layer ,"name" , "value") values ('orthophoto', 'sheet-number', '226 NW, SE, SW');
 update system.config_map_layer_metadata set  value = 'false' where "name" = 'in-plan-production' and  name_layer = 'orthophoto';
 
 
